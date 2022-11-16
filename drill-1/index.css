@@ -1,0 +1,23 @@
+header{
+    padding:80px;
+    background-color: #2D333B;
+}
+
+.right{
+    border-left:  200px solid  gray;
+    border-right:  200px solid  gray;
+    padding: 0px 200px;
+    /* margin-right: 200px;
+    margin-left: 200px; */
+    background-color: aqua;
+    height: 700px;
+    /* display:flex;
+    justify-content: space-between;
+    align-items: center; */
+}
+footer{
+    padding: 50px;
+    background-color: blue;
+    border-left:  200px solid  gray;
+    border-right:  200px solid  gray;
+}
